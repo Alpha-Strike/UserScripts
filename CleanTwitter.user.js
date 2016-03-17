@@ -5,10 +5,10 @@
 // @description  Get rid of annoying twitter widgets
 // @author       AlphaStrike
 // @license      MIT
-// @include      *://*.twitter.com/*
-// @include      *://twitter.com/*
 // @downloadURL  https://raw.githubusercontent.com/Alpha-Strike/UserScripts/master/CleanTwitter.user.js
 // @updateURL    https://raw.githubusercontent.com/Alpha-Strike/UserScripts/master/CleanTwitter.user.js
+// @include      *://*.twitter.com/*
+// @include      *://twitter.com/*
 // @grant        none
 // ==/UserScript==
 
